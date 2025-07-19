@@ -5,8 +5,8 @@ A simple object detection project using image datasets.
 ## 📊 Dataset
 
 - Source: [[Dataset Link](https://www.kaggle.com/competitions/cifar-10)]
-- Example: Used 3,000 images (RAM friendly)
-- Images resized to **200x200**, RGB
+- Example: Used 60,000 images (RAM friendly)
+- Images resized to **32x32**, RGB
 - Train/Test split
 
 ## ⚙️ Setup
